@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "395053763502",
+    "firebase_url": "https://realtimetasking.firebaseio.com",
+    "project_id": "realtimetasking",
+    "storage_bucket": "realtimetasking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395053763502:android:d2557de7ed320fb3",
+        "android_client_info": {
+          "package_name": "com.example.macintoshhd.kotlinfirstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395053763502-o7gbl5ibo1lfql1a1ue649aocs4hub6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.macintoshhd.kotlinfirstapp",
+            "certificate_hash": "38fbd1398902bfd3ed9b0d7cc4d1fb76bb909f76"
+          }
+        },
+        {
+          "client_id": "395053763502-v70r6vck3fvl1o54p54cm04mtc18a26c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAsKfjqzcraPYbReOBegSeLZdNXuls0FA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395053763502-v70r6vck3fvl1o54p54cm04mtc18a26c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

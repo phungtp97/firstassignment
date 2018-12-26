@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#845EC2</color>
+    <color name="colorPrimaryDark">#4B4453</color>
+    <color name="colorAccent">#9B89B3</color>
+    <color name="lightTheme">#FCF8FF</color>
+    <color name="halftransparent">#40000000</color>
+    <color name="grey">#909090</color>
+    <color name="lightgrey">#bbbbbb</color>
+    <color name="reflectTheme">#296073</color>
+    <color name="lightReflect">#3596B5</color>
+</resources>
